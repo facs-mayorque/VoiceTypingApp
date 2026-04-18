@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="VoiceTypingApp Logo" width="600"/>
+</p>
+
 # VoiceTypingApp (MacOS Style for Windows)
 
 Asistente de dictado minimalista con inteligencia artificial que formatea texto, detecta preguntas y organiza listas/viñetas automáticamente. Inspirado en la estética de Apple, vive como una onda animada flotante en tu pantalla.

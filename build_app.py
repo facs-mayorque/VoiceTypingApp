@@ -5,6 +5,7 @@ cmd = [
     sys.executable, "-m", "PyInstaller",
     "--noconsole",
     "--onefile",
+    "--icon", "assets/icon.ico",
     "--name", "VoiceTypingApp",
     "src/main.py"
 ]
