@@ -1,0 +1,13 @@
+# Entornos virtuales y caché
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Archivos de compilación (PyInstaller)
+build/
+dist/
+*.spec
+
+# ARCHIVOS PRIVADOS (No subir a GitHub)
+voice_app_config.json

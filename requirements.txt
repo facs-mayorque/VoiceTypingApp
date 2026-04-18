@@ -1,0 +1,4 @@
+keyboard
+SpeechRecognition
+pyperclip
+groq
