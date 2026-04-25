@@ -9,5 +9,8 @@ build/
 dist/
 *.spec
 
+# Instalador compilado (binario pesado, no es código fuente)
+installer_output/
+
 # ARCHIVOS PRIVADOS (No subir a GitHub)
 voice_app_config.json
